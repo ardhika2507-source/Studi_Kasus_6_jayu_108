@@ -1,0 +1,20 @@
+[
+    {
+        "kode": "B001",
+        "nama": "sikat gigi",
+        "stok": 35,
+        "harga": 7500
+    },
+    {
+        "kode": "B002",
+        "nama": "mie instan",
+        "stok": 105,
+        "harga": 3500
+    },
+    {
+        "kode": "B003",
+        "nama": "sabun cuci",
+        "stok": 47,
+        "harga": 28000
+    }
+]
